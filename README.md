@@ -2,8 +2,8 @@
 Unduh terlebih dahulu file - file yang di perlukan untuk melakukan Custom ROM
 1. [Samsung USB Driver](https://samsungusbdriver.com/category/download)
 2. [Odin](https://odindownloader.com/category/download)
-3. Custom Recovery
-4. Custom ROM
+3. [Custom Recovery](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v1.0.0)
+4. [Custom ROM](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v1.0.0)
 
 Penginstallan driver dan alat flash
 1. Install Samsung USB Driver pada Laptop/PC
