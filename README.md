@@ -5,9 +5,9 @@ Unduh terlebih dahulu file - file yang di perlukan untuk melakukan Custom ROM
 3. [Custom Recovery](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v1.0.0)
 4. [Custom ROM](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v1.0.0)
 
-Penginstallan driver dan alat flash
+Penginstallan Driver dan Alat Flash
 1. Install Samsung USB Driver pada Laptop/PC
-2. Ekstrak .zip file Odin kemudian buka Odin saat muncul peringatan klik OK (Peringatan tersebut mengingatkan untuk meghapus akun google terlebih dahulu agar saat ROM telah di pasang tidak merepotkan kita saat lupa akun sehingga harus melakukan Bypass FRP)
+2. Ekstrak .zip file Odin kemudian buka Odin saat muncul peringatan klik OK (Peringatan tersebut mengingatkan untuk meghapus akun Google terlebih dahulu agar saat ROM telah di pasang tidak merepotkan kita saat lupa akun sehingga harus melakukan Bypass FRP)
 3. Pindahkan Custom ROM dari Laptop/PC ke Micro SD atau Flash Drive (Jika kalian menggunakan Flash Drive artinya kalian membutuhkan alat tambahan yaitu OTG converter USB ke Micro USB)
 
 UBL untuk memflash Custom Recovery
