@@ -1,3 +1,5 @@
+<p align="center"><b>🇮🇩</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cilegordev/Custom-ROM-SGJ2P/blob/main/README-EN.md">🇺🇸</a></p>
+
 # Ikuti langkah - langkah di bawah ini:
 Unduh terlebih dahulu file - file yang di perlukan untuk melakukan Custom ROM
 1. [Samsung USB Driver](https://samsungusbdriver.com/category/download)
