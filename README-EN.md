@@ -4,8 +4,8 @@
 Download the file to create a Custom ROM
 1. [Samsung USB Driver](https://samsungusbdriver.com/category/download)
 2. [Odin](https://odindownloader.com/category/download)
-3. [Custom Recovery](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v3.0.1)
-4. [Custom ROM](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v3.0.1)
+3. [Custom Recovery](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v6.0.1)
+4. [Custom ROM](https://github.com/cilegordev/Custom-ROM-SGJ2P/releases/tag/v6.0.1)
 
 Installing Driver and Flash Tools
 1. Install Samsung USB Driver to your Laptop or PC
