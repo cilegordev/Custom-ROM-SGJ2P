@@ -21,7 +21,7 @@ UBL for flashing Custom Recovery
 6. After entering to Odin Mode plug the device's USB cable into your Laptop or Pc
 
 Installing Custom ROM
-1. In Odin choose **AP** > Find where you put the download **Custom Recovery.tar** > **Open** > **Start**
+1. In Odin choose **AP** > Find where you put the download **Custom Recovery.tar** > **Open** > then choose **Options** > don't check **Auto Reboot** > **Start**
 2. When finished unplug USB cable then unplug Battery and plug back Battery at the same time insert MicroSD or Flash Drive
 3. Press **Power Button + Home Button + Volume Up Button** at the same time
 4. After entering Recovery Mode swipe to right > **Wipe** > **Format Data** > typing: **yes**
