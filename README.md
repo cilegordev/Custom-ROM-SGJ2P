@@ -21,7 +21,7 @@ UBL untuk memflash Custom Recovery
 6. Setelah masuk Mode Odin pasang kabel USB perangkat ke Laptop/Pc
 
 Pemasangan Custom ROM
-1. Di Odin pilih **AP** > Cari di mana letak unduh **Custom Recovery.tar** > **Open** > **Start**
+1. Di Odin pilih **AP** > Cari di mana letak unduh **Custom Recovery.tar** > **Open** > kemudian pilih **Options** > jangan ceklis **Auto Reboot** > **Start**
 2. Jika sudah selesai cabut kabel USB kemudian cabut Batrai dan pasangkan kembali Batrai sekaligus pasang MicroSD/Flash Drive
 3. Tekan **Tombol Power + Tombol Home + Tombol Volume Atas** secara bersamaan
 4. Setelah masuk Mode Recovery geser ke kanan > **Wipe** > **Format Data** > ketikan: **yes**
